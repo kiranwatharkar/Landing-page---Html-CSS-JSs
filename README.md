@@ -1,2 +1,2 @@
-# Landing-page---Html-CSS-JSs
+# Landing-page---Html-CSS-JS
 Landing page Project
